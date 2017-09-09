@@ -26,6 +26,7 @@ Hyvinkää Hyvinkäänkylä;101130;1302;2829;60.6;24.8;86;Sääasemat;1930
 Hämeenlinna Katinen;101150;1322;2754;61;24.49;87;Sääasemat;2001
 Hämeenlinna Lammi Evo;101189;1438;2713;61.22;25.13;134;Sääasemat;2005
 Hämeenlinna Lammi Pappila;101154;1403;2767;61.05;25.04;125;Sääasemat;1963
+Ilmajoki Seinäjoki lentoasema;137188;;;62.69;22.84;86;Sääasemat;2012
 Ilomantsi Mekrijärvi;101651;3919;2939;62.77;30.98;155;Sääasemat;1999
 Ilomantsi Pötsönvaara;101649;3917;2766;63.14;31.04;235;Sääasemat;1997
 Inari Angeli Lintupuoliselkä;102026;9405;2857;68.9;25.74;285;Sääasemat;2008
@@ -89,9 +90,9 @@ Kuopio Maaninka;101572;3603;2788;63.14;27.31;90;Sääasemat;1930
 Kuopio Ritoniemi;101580;3611;2732;62.8;27.9;86;Sääasemat;1980
 Kuopio Savilahti;101586;3617;2955;62.89;27.63;87;Sääasemat;2005
 Kustavi Isokari;101059;1016;2964;60.72;21.03;5;Sääasemat;1974
+Kuusamo Juuma;101899;6814;2749;66.32;29.4;298;Sääasemat;1989
 Kuusamo Kiutaköngäs;101887;6802;2811;66.37;29.31;165;Sääasemat;1966
 Kuusamo lentoasema;101886;6801;2869;65.99;29.23;264;Sääasemat;1909
-Kuusamo Oulanka;101899;6814;2749;66.32;29.4;298;Sääasemat;1989
 Kuusamo Ruka Talvijärvi;806428;6817;2760;66.17;29.14;305;Sääasemat;2013
 Kuusamo Rukatunturi;101897;6812;2868;66.17;29.15;500;Sääasemat;1990
 Kökar Bogskär;100921;16;2979;59.51;20.36;4;Sääasemat;1982
@@ -109,6 +110,7 @@ Loviisa Orrengrund;101039;510;2992;60.27;26.44;5;Sääasemat;1974
 Luhanka Judinsalo;101362;2426;2765;61.7;25.51;80;Sääasemat;1990
 Lumparland Långnäs satama;151048;12;2724;60.12;20.3;10;Sääasemat;2012
 Maalahti Strömmingsbådan;101481;3020;2781;62.98;20.74;2;Sääasemat;1997
+Maarianhamina Lotsberget;100929;24;2969;60.09;19.94;57;Sääasemat;2007
 Maarianhamina Länsisatama;151029;26;2997;60.09;19.93;2;Sääasemat;2012
 Mikkeli lentoasema;101398;2602;2947;61.69;27.2;99;Sääasemat;1959
 Multia Karhila;101536;3317;2927;62.51;24.81;227;Sääasemat;2008
@@ -122,6 +124,7 @@ Oulu lentoasema;101786;5401;2875;64.93;25.37;11;Sääasemat;1953
 Oulu Oulunsalo Pellonpää;101799;5414;2851;64.94;25.37;10;Sääasemat;2007
 Oulu Vihreäsaari satama;101794;5409;2876;65.01;25.39;3;Sääasemat;1996
 Parainen Fagerholm;100924;19;2950;60.11;21.7;3;Sääasemat;1989
+Parainen Utö;100908;2;2981;59,78;21,37;6;Sääasemat;1881
 Parikkala Koitsanlahti;101254;1802;2734;61.44;29.46;74;Sääasemat;1991
 Pelkosenniemi Pyhätunturi;101958;7708;2705;67.02;27.22;491;Sääasemat;1995
 Pello kk Museotie;101914;7307;2844;66.77;23.96;85;Sääasemat;1970

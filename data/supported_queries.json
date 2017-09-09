@@ -57,5 +57,20 @@
       "starttime",
       "endtime"
     ]
+  },
+  {
+    "id": "obs_searegion",
+    "name": {
+      "fi": "Aaltohavainnot",
+      "en": "Wave observations"
+    },
+    "request": "getFeature",
+    "max_hours_range": 167,
+    "storedquery_id": "fmi::observations::wave::multipointcoverage",
+    "params": [
+      "fmisid",
+      "starttime",
+      "endtime"
+    ]
   }
 ]
